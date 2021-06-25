@@ -15,5 +15,3 @@ split_text_file=re.split(r'\s',text)
 
 for word in split_text_file:
   find_all_bd_numbers(word)
-
-  here is something.......
